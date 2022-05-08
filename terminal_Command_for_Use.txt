@@ -1,0 +1,1 @@
+python eval.py --dataset=dtu_yao_eval --batch_size=1 --testpath=./INPUT --testlist ./lists/self_made_data_list/test.txt --loadckpt ./checkpoints/model_000014.ckpt
